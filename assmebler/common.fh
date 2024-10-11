@@ -1,0 +1,7 @@
+dnum = 3
+evknum = 1
+L = 18
+alpha =  ceil(L/dnum) 
+K = dnum
+N=65536
+E=256
