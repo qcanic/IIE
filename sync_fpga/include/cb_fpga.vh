@@ -1,0 +1,3 @@
+`define AURORA_LANE_NUM 4
+`define AURORA_DATA_SIZE (`AURORA_LANE_NUM * 64)
+
